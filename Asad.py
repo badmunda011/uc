@@ -11,7 +11,6 @@ client = pyrogram.Client(
     "my_session",
     api_id=25742938,
     api_hash="b35b715fe8dc0a58e8048988286fc5b6",
-    storage=pyrogram.session.PersistentSession("path/to/session/file")
 )
 
 # Start the client
