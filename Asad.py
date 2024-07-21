@@ -4,7 +4,7 @@ from pytgcalls import PyTgCalls
 from pytgcalls import idle as pyidle
 from config import bot, call_py
 
-bot.start()
+bot.start
 print("UserBot Started")
 call_py.start()
 print("Vc Client Started")
