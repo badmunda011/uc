@@ -1,6 +1,7 @@
 TgCrypto
 pyrogram==1.4.16
-py-tgcalls==0.8.1
+py-tgcalls==2.0.2
+ntgcalls==1.2.0
 asyncio
 youtube-search-python
 yt-dlp
